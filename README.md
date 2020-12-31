@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### ever tried, ever failed, no matter. try again, fail again, fail better.
 
 </div>
 
