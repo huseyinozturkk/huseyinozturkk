@@ -1,4 +1,4 @@
-## <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>Hello, I'm Hüseyin 👋
+## Hello, I'm Hüseyin 👋
 
 <a href="https://www.linkedin.com/in/h%C3%BCseyin-%C3%B6zt%C3%BCrk-237b6a185/">
   <img align="left" alt="Huseyin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
