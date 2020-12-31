@@ -35,8 +35,8 @@
 
 **Tools:**  
 
-<img width="22px" alt="AltiumDesigner" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/altiumdesigner.svg"/>
-<img width="22px" alt="Proteus" src="https://www.labcenter.com/images/logo.png"/>
+<code><img width="22px" alt="AltiumDesigner" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/altiumdesigner.svg"/></code>
+<code><img width="22px" alt="Proteus" src="https://www.labcenter.com/images/logo.png"/></code>
 
 
 <div align="center">
