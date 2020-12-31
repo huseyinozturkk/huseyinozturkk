@@ -34,6 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <img width="22px" alt="AltiumDesigner" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/altiumdesigner.svg"/>
+<img width="22px" alt="Proteus" src="https://en.wikipedia.org/wiki/Proteus_Design_Suite#/media/File:Proteus_Design_Suite_Atom_Logo.png"/>
 
 
 <div align="center">
