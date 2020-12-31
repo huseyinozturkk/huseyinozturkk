@@ -36,7 +36,7 @@
 **Tools:**  
 
 <img width="22px" alt="AltiumDesigner" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/altiumdesigner.svg"/>
-<img width="22px" alt="Proteus" src="https://en.wikipedia.org/wiki/Proteus_Design_Suite#/media/File:Proteus_Design_Suite_Atom_Logo.png"/>
+<img width="22px" alt="Proteus" src="https://www.labcenter.com/images/logo.png"/>
 
 
 <div align="center">
