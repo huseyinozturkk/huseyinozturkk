@@ -13,7 +13,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Face Recognition by Python
+- 🔭 I’m currently working on Face Recognition with Python
 - 🌱 I’m currently learning VHDL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Image processing
