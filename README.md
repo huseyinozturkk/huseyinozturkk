@@ -23,7 +23,7 @@
 - ⚡ Fun fact: ...
 
 
-**Languages and Tools:**  
+**Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -32,6 +32,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+**Tools:**  
 
 <img width="22px" alt="AltiumDesigner" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/altiumdesigner.svg"/>
 <img width="22px" alt="Proteus" src="https://en.wikipedia.org/wiki/Proteus_Design_Suite#/media/File:Proteus_Design_Suite_Atom_Logo.png"/>
