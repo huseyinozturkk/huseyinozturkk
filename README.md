@@ -14,8 +14,8 @@
 
 
 - 🔭 I’m currently working on Face Recognition with Python
-- 🌱 I’m currently learning VHDL
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning VHDL and Js
+- 👯 I’m looking to collaborate on Monitoring Serial Data with Js
 - 🤔 I’m looking for help with Image processing
 - 💬 Ask me about C,C++,Python,STM32,Arduino and IoT
 - 📫 How to reach me:<a href="https://t.me/ozturkhuse">Telegram</a>
