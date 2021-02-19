@@ -15,9 +15,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on Face Recognition with Python
-- 🌱 I’m currently learning VHDL and Js
-- 👯 I’m looking to collaborate on Monitoring Serial Data with Js
+- 🔭 I’m currently working on Avionics of a Model Rocket
+- 🌱 I’m currently learning Verilog and PyQt5
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Image processing
 - 💬 Ask me about C,C++,Python,STM32,Arduino and IoT
 - 📫 How to reach me:<a href="https://t.me/ozturkhuse">Telegram</a>
