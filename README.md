@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently working on Avionics of a Model Rocket
-- 🌱 I’m currently learning Verilog and PyQt5
+- 🌱 I’m currently learning ANSYS, Solidworks and PyQt5 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Image processing
 - 💬 Ask me about C,C++,Python,STM32,Arduino and IoT
