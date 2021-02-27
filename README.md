@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Avionics of a Model Rocket
 - 🌱 I’m currently learning ANSYS, Solidworks and PyQt5 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Image processing
+- 🤔 I’m looking for help with Image processing, VHDL
 - 💬 Ask me about C,C++,Python,STM32,Arduino and IoT
 - 📫 How to reach me:<a href="https://t.me/ozturkhuse">Telegram</a>
 - 😄 Pronouns: ...
