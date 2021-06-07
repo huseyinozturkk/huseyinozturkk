@@ -13,11 +13,13 @@
 </a>
 <br/>
 <br/>
+Last update -> 07.06.2021
+<br/>
 
 
 - 🔭 I’m currently working on Avionics of a Model Rocket
-- 🌱 I’m currently learning ANSYS, Solidworks and PyQt5 
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ML, STM32, PCB Design and LTspice
+- 👯 I’m looking to collaborate on PCB Design
 - 🤔 I’m looking for help with Image processing, VHDL
 - 💬 Ask me about C,C++,Python,STM32,Arduino and IoT
 - 📫 How to reach me:<a href="https://t.me/ozturkhuse">Telegram</a>
